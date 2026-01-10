@@ -13,4 +13,4 @@ console.log(Math.PI);
 console.log(Math.floor(2.95))
 console.log(Math.random()*10)
 const rand = Math.round(Math.random()*10)
-console.log(rand)
+console.log(rand) 
